@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Karla&display=swap');
+
+
+body {
+    margin: 50px 0 0 0;
+    font-family: 'Abel', sans-serif;
+}
+
+
+.wrapper {
+    width: 1200px;
+    height: 750px;
+    margin: 0 auto 0 auto;
+    background-image: url(images/coco.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.coco {
+    padding-left: 600px;
+    padding-right: 50px;
+}
+
+.coco img {
+    width: 300px;
+    margin-left: 120px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+
+.coco h1 {
+    color: #FFF;
+    font-weight: normal;
+}
+
+
+.coco p {
+    color: #FFF;
+}
+
+
+.coco a {
+    position: relative;
+    float: left;
+    background-color: #f38030;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: #FFF;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.coco a:hover {
+    background-color: #FFF;
+    color: #f38030;
+}
